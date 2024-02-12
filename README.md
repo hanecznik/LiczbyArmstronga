@@ -1,1 +1,1 @@
-## Program of Armstrong's numbers.
+# Program of Armstrong's numbers.
